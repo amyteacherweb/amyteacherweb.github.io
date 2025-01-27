@@ -1,3 +1,7 @@
+$(function(){
+  $("#menulist").load("menu.html");
+});
+
 (function($) {
 
 	/**
